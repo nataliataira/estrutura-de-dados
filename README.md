@@ -16,9 +16,8 @@ Cada pasta no repositório corresponde a uma atividade específica, abordando um
 2. [Alocação Estática vs Alocação Dinâmica](./alocacao)
 3. [Pilha](./pilha)
 4. [Fila](./fila)
-5. [Lista Encadeada](./lista-linkada)
-6. [Lista Circular e Lista Duplamente Encadeada](./lista-circular-lista-dp-linkada)
-7. [Árvore Binária](./arvore-binaria)
+5. [Lista Encadeada, Circular e Duplamente Encadeada](./listas)
+6. [Árvore Binária](./arvore-binaria)
 
 
 ## Requisitos
