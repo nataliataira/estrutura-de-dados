@@ -12,15 +12,13 @@ Cada pasta no repositório corresponde a uma atividade específica, abordando um
 
 ## Índice de Atividades
 
-1. [Recursão](./recursao)
-2. [Ponteiros](./ponteiros)
-3. [Tipo Abstrato de Dados (TAD)](./tad)
-4. [Alocação Estática vs Alocação Dinâmica](./alocacao)
-5. [Pilha](./pilha)
-6. [Fila](./fila)
-7. [Lista Encadeada](./lista-linkada)
-8. [Lista Circular e Lista Duplamente Encadeada](./lista-circular-lista-dp-linkada)
-9. [Árvore Binária](./arvore-binaria)
+1. [Tipo Abstrato de Dados (TAD)](./tad)
+2. [Alocação Estática vs Alocação Dinâmica](./alocacao)
+3. [Pilha](./pilha)
+4. [Fila](./fila)
+5. [Lista Encadeada](./lista-linkada)
+6. [Lista Circular e Lista Duplamente Encadeada](./lista-circular-lista-dp-linkada)
+7. [Árvore Binária](./arvore-binaria)
 
 
 ## Requisitos
