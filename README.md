@@ -33,12 +33,10 @@ sudo apt install gcc
 
 Por exemplo, para compilar a atividade de lista encadeada:
 ```bash
-cd lista-linkada
-gcc -o lista-linkada main.c lista.c
-./lista-linkada
+cd tad
+gcc -o tad tad.c
+./tad
 ```
-
-> **Nota:** Substitua `lista.c` por todos os arquivos `.c` necessários para cada atividade específica, quando houverem múltiplos arquivos.
 
 
 ## Licença
